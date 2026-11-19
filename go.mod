@@ -1,3 +1,3 @@
-module github.com/open-runtimes/open-runtimes/logs
+module github.com/open-runtimes/logs
 
 go 1.25
